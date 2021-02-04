@@ -10,6 +10,11 @@
 
 I'm seeking 2021 internship where contiributes to solve problems and makes better life  
 
+## Talking about Personal Stuffs:
+- 🔭 I’m currently making markdown practice web application:
+- 💬 Ask me about anything. I am happy to help
+- 📝 I regulary write articles on medium
+- 📫 How to reach me: dongre2527@gmail.com;
 
 ### 📊 This Week I Spent My Time On:
 
@@ -22,13 +27,6 @@ Markdown     3 hrs 12 mins   █▒░░░░░░░░░░░░░░░
 CSS          1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 <!--END_SECTION:waka-->
-
-## Talking about Personal Stuffs:
-- 🔭 I’m currently making markdown practice web application:
-- 💬 Ask me about anything. I am happy to help
-- 📝 I regulary write articles on medium
-- 📫 How to reach me: dongre2527@gmail.com;
-
 
 ### 📈 My GitHub Stats:
 
