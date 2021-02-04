@@ -1,4 +1,4 @@
-### I'm Dongho Kim, a Junior React Front-end Developer👋
+## I'm Dongho Kim, a Junior React Front-end Developer👋
 
 ![badge](https://img.shields.io/badge/left-right-f39f37)
 
