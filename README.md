@@ -12,9 +12,11 @@ I'm seeking 2021 internship where contiributes to solve problems and makes bette
 
 ## Talking about Personal Stuffs:
 - 🔭 I’m currently making markdown practice web application:
+- 👯 I’m looking for someone who want make open source project with me
 - 💬 Ask me about anything. I am happy to help
 - 📝 I regulary write articles on medium
-- 📫 How to reach me: dongre2527@gmail.com;
+- 📫 How to reach me: dongre2527@gmail.com
+
 
 ### 📊 This Week I Spent My Time On:
 
