@@ -6,11 +6,11 @@
 [![Medium](https://camo.githubusercontent.com/10dcef53ec44785048c24422cefb355b86831eac5966559864cf37366fb1290e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465 "Dongho Kim's Medium")](https://dongre2527.medium.com/)
 </div>
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mass2527}.${your.repo.id})
+#### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mass2527}.${your.repo.id})
 
 I'm seeking 2021 internship where contiributes to solve problems and makes better life  
 
-## Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 - 🔭 I’m currently making markdown practice web application:
 - 👯 I’m looking for someone who want make open source project with me
 - 💬 Ask me about anything. I am happy to help
@@ -18,7 +18,7 @@ I'm seeking 2021 internship where contiributes to solve problems and makes bette
 - 📫 How to reach me: dongre2527@gmail.com
 
 
-### 📊 This Week I Spent My Time On:
+#### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
 ```text
@@ -30,7 +30,7 @@ CSS          1 hr 51 mins    ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### 📈 My GitHub Stats:
+#### 📈 My GitHub Stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mass2527&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
