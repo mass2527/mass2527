@@ -11,8 +11,6 @@
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mass2527}.${your.repo.id})
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mass2527&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 ### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
@@ -25,11 +23,17 @@ CSS          1 hr 51 mins    ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!--
-**mass2527/mass2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### 📈 My GitHub Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mass2527&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Here are some ideas to get you started:
 
+
+<!--
+**mass2527/mass2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
