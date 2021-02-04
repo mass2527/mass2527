@@ -10,8 +10,8 @@
 
 
 
-
-I'm seeking 2021 internship where contiributes to solve problems and makes better life  
+I'm passionate about making web application with nice UI.
+I'm seeking 2021 internship where contiributes to solve problems and makes better life.
 
 #### Talking about Personal Stuffs:
 - 🔭 I’m currently making markdown practice web application:
