@@ -25,11 +25,11 @@ I'm seeking 2021 internship where contiributes to solve problems and makes bette
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   30 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.58 % 
-JavaScript   18 hrs 53 mins  ████████░░░░░░░░░░░░░░░░░   31.45 % 
-HTML         4 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Markdown     3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-CSS          1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TypeScript   28 hrs 12 mins  ████████████░░░░░░░░░░░░░   48.55 % 
+JavaScript   17 hrs 13 mins  ███████▒░░░░░░░░░░░░░░░░░   29.65 % 
+HTML         4 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown     4 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+CSS          1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 <!--END_SECTION:waka-->
 
