@@ -22,11 +22,7 @@ I'm passionate about making web application with nice UI.
 
 #### 📊 This Week I Spent My Time On:
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mass2527)](https://github.com/mass2527/github-readme-stats)
 
 #### 📈 My GitHub Stats:
 
