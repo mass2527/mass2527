@@ -30,9 +30,9 @@ No Activity tracked this Week
 
 #### 📈 My GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=mass2527&theme=<THEME_NAME>" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mass2527&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![mass2527's github stats](https://github-readme-stats.vercel.app/api?username=mass2527&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/mass2527/github-readme-stats)
 
 Here are some ideas to get you started:
 
