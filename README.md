@@ -22,8 +22,7 @@ I'm passionate about making web application with nice UI.
 
 #### 📊 This Week I Spent My Time On:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=mass2527&theme=<THEME_NAME>" />
 
 #### 📈 My GitHub Stats:
 
