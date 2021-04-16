@@ -24,11 +24,11 @@ I'm passionate about making web application with nice UI.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       28 hrs 20 mins  ██████████████████░░░░░░░   72.50 % 
-JavaScript   6 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-SCSS         1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-JSON         1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-HTML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Vue.js       27 hrs 39 mins  ███████████████████░░░░░░   75.88 % 
+JavaScript   5 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+JSON         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Text         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 
