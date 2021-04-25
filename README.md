@@ -3,22 +3,9 @@
 <div>
   
 [![LinkedIn](https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465 "Dongho Kim's LinkedIn profile")](https://www.linkedin.com/in/dh-kim-733227200/)
-[![Medium](https://dongre2527.medium.com/33-javascript-concepts-15-call-apply-bind-f44e428b7768)
+[![Medium](https://camo.githubusercontent.com/10dcef53ec44785048c24422cefb355b86831eac5966559864cf37366fb1290e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465 "Dongho Kim's Medium")](https://dongre2527.medium.com/) 
 
 </div>
-
-
-
-
-I'm passionate about making web application with nice UI.  
-
-#### Talking about Personal Stuffs:
-- 🔭 I’m currently making markdown practice web application:
-- 👯 I’m looking for someone who want make open source project with me
-- 💬 Ask me about anything. I am happy to help
-- 📝 I regulary write articles on medium
-- 📫 How to reach me: dongre2527@gmail.com
-
 
 #### 📊 This Week I Spent My Time On:
 
